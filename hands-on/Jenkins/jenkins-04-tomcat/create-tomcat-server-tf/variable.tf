@@ -4,7 +4,7 @@ variable "region" {
   default = "us-east-1"
 }
 variable "mykey" {
-  default = "emrenew"
+  default = "clarus"
 }
 variable "tags" {
   default = ["stage", "production"]
